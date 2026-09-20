@@ -7,7 +7,7 @@ export default function App() {
     size: 'DN100 (4 inch)',
     material: 'SUS304',
     rating: '10K',
-    length: '1200',
+    length: '1500',
     quantity: '5'
   });
 
